@@ -1,0 +1,151 @@
+.about img{
+    -webkit-box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+}
+.about{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+h1{
+    font: size 3rem;
+    font-weight: 900;
+}
+
+.progress{
+    background-color: rgb(233, 20, 109);
+    justify-content: flex-start;
+    border-radius: 50xp;
+    align-items:center;
+    position: relative;
+    display: flex;
+    height: 25px;
+    width:100%;
+
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.pro-value1{
+    animation: load1 3s normal forwards;
+    border-radius:50xp;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+.pro-value2{
+    animation: load2 3s normal forwards;
+    border-radius:50xp;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+.pro-value3{
+    animation: load3 3s normal forwards;
+    border-radius:50xp;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+.pro-value4{
+    animation: load4 3s normal forwards;
+    border-radius:50xp;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+.pro-value5{
+    animation: load5 3s normal forwards;
+    border-radius:50xp;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+
+.progress p {
+    color: white;
+    padding: 12px;
+}
+
+@keyframes load1{
+    0%{
+        width:0;
+    }
+    100%
+    {
+        Width:98%;
+    }
+}
+@keyframes load2{
+    0%{
+        width:0;
+    }
+    100%
+    {
+        Width:90%;
+    }
+}
+@keyframes load3{
+    0%{
+        width:0;
+    }
+    100%
+    {
+        Width:85%;
+    }
+}
+@keyframes load4{
+    0%{
+        width:0;
+    }
+    100%
+    {
+        Width:75%;
+    }
+    
+}
+
+@keyframes load5{
+    0%{
+        width:0;
+    }
+    100%
+    {
+        Width:85%;
+    }
+    
+}
+
+.btn1{
+    height:40px;
+    width: 145px;
+    outline: none;
+    border: none; background-color: rgb(233, 20, 109);
+    color: antiquewhite;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.btn1:hover{
+    background-color: transparent;
+    color:black;
+    border:1px solid black;
+    transition: 0.5s;
+}
+
+.btn2{
+    height:40px;
+    width: 145px;
+    outline: none;
+    border: 1px solidrgb(233, 20, 109);
+    background-color: transparent;
+    color: rgb(233, 20, 109);
+    border-radius: 4px;
+   
+}
+.btn2:hover{
+    background-color: rgb(233, 20, 109);
+    color: white;
+    border: 1px solid #e9146d;
+    transition: 0.5s;
+    
+
+}
