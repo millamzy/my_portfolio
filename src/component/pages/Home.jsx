@@ -3,6 +3,8 @@ import Boddy from '../Boddy'
 import Main from '../Main'
 import About from './About'
 import Services from './Services'
+import Photo from './Photo'
+
 
 
 function Home() {
@@ -12,6 +14,7 @@ function Home() {
     <Boddy/>
     <About/>
     <Services/>
+    <Photo/>
     </div>
   )
 }

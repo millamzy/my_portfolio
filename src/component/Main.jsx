@@ -14,7 +14,7 @@ function Main() {
              <input type="button " value="Hire Me" class='bt2 mt-5 '></input>
               </div>
               <div class="col-md-6  "  >
-              < img src="aj.PNG" className='img'/> 
+              < img src="aj.PNG" class="img-fluid"/> 
               </div>
         </div> 
     </div> 
