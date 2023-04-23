@@ -135,12 +135,13 @@ h1{
     height:40px;
     width: 145px;
     outline: none;
-    border: 1px solidrgb(233, 20, 109);
+    border: 1px solidrgb(233, 201, 109);
     background-color: transparent;
     color: rgb(233, 20, 109);
     border-radius: 4px;
    
 }
+
 .btn2:hover{
     background-color: rgb(233, 20, 109);
     color: white;

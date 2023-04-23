@@ -5,7 +5,7 @@ function Services() {
   return (
     <section class="services py-5  ">
         <div class="container py-5 ">
-            <h1 class="text-center pb-5 ">My APPLICATIONS</h1>
+            <h1 class="text-center pb-5 ">APPLICATIONS</h1>
             <div class="row pb-3 bb ">
                <div class="col-lg-4 mb-3">
                 <div class="card text-center px-3 py-3">

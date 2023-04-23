@@ -7,7 +7,7 @@ function About() {
         <div class="container py-5 ">
             <div class="row">
                 <div className="col-lg-5">
-                    <img src='./mii.jpg' class="img-fluid" alt=""></img>
+                    <img src='./king.jpg' class="img-fluid" alt="" style={{ width: "100%", height: "90%" }}></img>
                 </div>
                 <div className="col-lg-7 pt-3">
                 <h1>About Me</h1>
