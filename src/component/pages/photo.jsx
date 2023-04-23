@@ -5,10 +5,10 @@ function photo() {
   return (
     <section class="photo py-5">
         <div class="container text-center py-5">
-            <h1 class="text-center pb-5"> Services</h1>
+            <h1 class="text-center pb-5 "> Services</h1>
                         <div class="control rounded">
                             <ul>
-                                <li class="button">APP</li>
+                                <li class="button">MY APP</li>
                                 <li class="button">GRAPHICS</li>
                                 <li class="button">FIGMA DESIGN</li>
                             </ul>
