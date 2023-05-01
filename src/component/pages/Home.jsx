@@ -2,7 +2,6 @@ import React from 'react'
 import Main from '../Main'
 import About from './About'
 import Services from './Services'
-import photo from './Photo'
 import footer from'./footer'
 
 
@@ -13,7 +12,7 @@ function Home() {
    <Main/>
     <About/>
     <Services/>
-    <photo/>
+    
     <footer/>
     </div>
   )
