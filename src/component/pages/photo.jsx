@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './photo.css'
 
 function photo() {
