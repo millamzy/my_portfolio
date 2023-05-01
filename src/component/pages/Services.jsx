@@ -8,12 +8,12 @@ function Services() {
             <h1 class="text-center pb-5 ">APPLICATIONS</h1>
             <div class="row pb-3 bb ">
                <div class="col-lg-4 mb-3">
-                <div class="card text-center px-3 py-3">
-                    <img class="card-img-top" src="./mi.PNG" alt="Card image cap"/>
+                <div class="card text-center px-2 py-5">
+                    <img class="card-img-top" src="./Capture.PNG" alt="Card image cap"/>
                       <div class="card-body">
                           <h5 class="card-title text-primary">Movie App</h5>
                               <p>kdmdkmkdnsj</p>
-                              <a href="#" class="btn btn-primary">click here</a>
+                              <a href="https://react-redux-tutorial-master.vercel.app/" class="btn btn-primary">click here</a>
                       </div>
                 </div>
                </div>

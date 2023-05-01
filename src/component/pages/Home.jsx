@@ -3,6 +3,7 @@ import Main from '../Main'
 import About from './About'
 import Services from './Services'
 import Photo from './Photo'
+import footer from'./footer'
 
 
 
@@ -13,6 +14,7 @@ function Home() {
     <About/>
     <Services/>
     <Photo/>
+    <footer/>
     </div>
   )
 }
