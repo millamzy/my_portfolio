@@ -1,7 +1,7 @@
 
-import './photo.css'
+import './Gallary.css'
 
-function photo() {
+function Gallary() {
   return (
     <section class="photo py-5">
         <div class="container text-center py-5">
@@ -63,4 +63,4 @@ function photo() {
   )
 }
 
-export default photo
+export default Gallary

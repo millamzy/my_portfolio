@@ -3,6 +3,8 @@ import Main from '../Main'
 import About from './About'
 import Services from './Services'
 import footer from'./footer'
+import Gallary from './gallary'
+
 
 
 
@@ -12,7 +14,7 @@ function Home() {
    <Main/>
     <About/>
     <Services/>
-    
+    <Gallary/>
     <footer/>
     </div>
   )
