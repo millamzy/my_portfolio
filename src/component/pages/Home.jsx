@@ -2,8 +2,8 @@ import React from 'react'
 import Main from '../Main'
 import About from './About'
 import Services from './Services'
-import footer from'./footer'
 import Gallary from './gallary'
+
 
 
 
@@ -15,7 +15,6 @@ function Home() {
     <About/>
     <Services/>
     <Gallary/>
-    <footer/>
     </div>
   )
 }

@@ -11,20 +11,18 @@ function Services() {
                 <div class="card text-center px-2 py-5">
                     <img class="card-img-top" src="./Capture.PNG" alt="Card image cap"/>
                       <div class="card-body">
-                          <h5 class="card-title text-primary">Movie App</h5>
-                              <p>kdmdkmkdnsj</p>
+                          <h5 class="card-title text-primary">kingsshop</h5>
                               <a href="https://react-redux-tutorial-master.vercel.app/" class="btn btn-primary">click here</a>
                       </div>
                 </div>
                </div>
 
                <div class="col-lg-4 mb-3">
-                <div class="card text-center px-3 py-3">
-                    <img class="card-img-top" src="./mi.PNG" alt="Card image cap"/>
+                <div class="card text-center px-3 py-1">
+                    <img class="card-img-top" src="./style.PNG" weight="100px" width="auto" height="267px" alt="Card image cap"/>
                       <div class="card-body">
                           <h5 class="card-title text-primary">Movie App</h5>
-                              <p>kdmdkmkdnsj</p>
-                              <a href="#" class="btn btn-primary">click here</a>
+                              <a href="style-video-git-master-millamzy.vercel.app" class="btn btn-primary">click here</a>
                       </div>
                 </div>
                </div>
@@ -34,7 +32,6 @@ function Services() {
                     <img class="card-img-top" src="./mi.PNG" alt="Card image cap"/>
                       <div class="card-body">
                           <h5 class="card-title text-primary">Movie App</h5>
-                              <p>kdmdkmkdnsj</p>
                               <a href="#" class="btn btn-primary">click here</a>
                       </div>
                 </div>
