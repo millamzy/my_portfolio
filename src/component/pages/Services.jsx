@@ -9,7 +9,7 @@ function Services() {
             <div class="row pb-3 bb ">
                <div class="col-lg-4 mb-3">
                 <div class="card text-center px-2 py-5">
-                    <img class="card-img-top" src="./Capture.PNG" alt="Card image cap"/>
+                    <img class="card-img-top  " src="./Capture.PNG"  alt="Card image cap"/>
                       <div class="card-body">
                           <h5 class="card-title text-primary">kingsshop</h5>
                               <a href="https://react-redux-tutorial-master.vercel.app/" class="btn btn-primary">click here</a>
@@ -18,21 +18,23 @@ function Services() {
                </div>
 
                <div class="col-lg-4 mb-3">
-                <div class="card text-center px-3 py-1">
-                    <img class="card-img-top" src="./style.PNG" weight="100px" width="auto" height="267px" alt="Card image cap"/>
-                      <div class="card-body">
-                          <h5 class="card-title text-primary">Movie App</h5>
-                              <a href="style-video-git-master-millamzy.vercel.app" class="btn btn-primary">click here</a>
-                      </div>
-                </div>
+               <div class="NEW text-center px-3 py-3">
+  <div class="imgBox">
+    <img src="./mi.PNG" alt=""/>
+  </div>
+  <div class="details">
+    <h2></h2>
+    <h1> I AM ALSO A GRAPHIC DESIGNER</h1>
+  </div>
+</div>
                </div>
 
                <div class="col-lg-4 mb-3">
-                <div class="card text-center px-3 py-3">
-                    <img class="card-img-top" src="./mi.PNG" alt="Card image cap"/>
+                <div class="card text-center px-3 py-">
+                    <img class="card-img-top" width="auto" height="260" src="./style.PNG" alt="Card image cap"/>
                       <div class="card-body">
                           <h5 class="card-title text-primary">Movie App</h5>
-                              <a href="#" class="btn btn-primary">click here</a>
+                              <a href="style-video-git-master-millamzy.vercel.app" class="btn btn-primary">click here</a>
                       </div>
                 </div>
                </div>

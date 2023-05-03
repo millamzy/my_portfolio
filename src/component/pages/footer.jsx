@@ -16,14 +16,18 @@ function Footer() {
             </div>
 
             <div class="col-lg-4 mb-3 text-center" >
-            <FaFacebook className="icon mr-5"/>
-            <FaTwitter className="icon mr-5"/>
             <FaInstagramSquare className="icon  mr-5"/>
+            <FaFacebook className="icon mr-5 spinner"/>
+            
+            <a href="#" class="hvr-icon-forward">
+            
+            <FaTwitter className="icon mr-5 hvr-icon-spin"/>
+          </a>
               
             </div>
 
             <div class="col-lg-4 mb-3">
-              <h4></h4>
+              
             </div>
 
         </div>

@@ -10,6 +10,7 @@ import Footer from './component/pages/footer';
 function App() {
   return (
     <div className='full'>
+      
     <Navbar/>
     <Home/>
     <Footer/>
